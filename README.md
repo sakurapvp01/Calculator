@@ -2,9 +2,11 @@
 ***I love coding on a platform called Python, also my projects will be published exclusively on it since I am not going to learn any other programming language for now, but maybe in the future I will learn a couple or more programming languages.***
 ___
 
-+ **you just need one library for this software, namely**
++ **you just need three library for this software, namely**
 ~~~python
 pip install colorama
+pip install math
+pip install time
 ~~~
 
 + **photo of the software below**
