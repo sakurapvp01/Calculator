@@ -3,9 +3,12 @@
 ___
 
 + **you just need three library for this software, namely**
-~~~python
+~~~
 pip install colorama
+~~~
+~~~
 pip install math
+~~~
 pip install time
 ~~~
 
